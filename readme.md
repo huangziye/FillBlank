@@ -29,7 +29,7 @@ dependencies {
 # How to use it
 
 
-```
+```kotlin
 val fillBlankView = findViewById<FillBlankView>(R.id.fillBlankView)
 val content =
     "纷纷扬扬的________下了半尺多厚。天地间________的一片。我顺着________工地走了四十多公里，" + "只听见各种机器的吼声，可是看不见人影，也看不见工点。一进灵官峡，我就心里发慌。"
@@ -45,6 +45,7 @@ fillBlankView.setData(content, rangeList, Color.RED)
 
 
 
+
 # About me
 
 
@@ -54,6 +55,9 @@ fillBlankView.setData(content, rangeList, Color.RED)
 
 - [Github](https://github.com/huangziye)
 
+
+
+### [reference](https://github.com/alidili/Demos/blob/301f52b9a9b6f511e199044d03f8c9fc75e6d810/FillBlankQuestionDemo/app/src/main/java/com/yl/fillblankquestiondemo/MainActivity.java)
 
 # License
 
