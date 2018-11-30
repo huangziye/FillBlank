@@ -43,6 +43,12 @@ rangeList.add(AnswerRange(38, 46))
 fillBlankView.setData(content, rangeList, Color.RED)
 ```
 
+# effect picture
+
+![加载效果图](https://github.com/huangziye/FillBlank/blob/master/screenshot/fillblank.gif)
+
+
+
 ### [reference](https://github.com/alidili/Demos/blob/301f52b9a9b6f511e199044d03f8c9fc75e6d810/FillBlankQuestionDemo/app/src/main/java/com/yl/fillblankquestiondemo/MainActivity.java)
 
 
