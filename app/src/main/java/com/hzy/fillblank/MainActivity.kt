@@ -2,7 +2,7 @@ package com.hzy.fillblank
 
 import android.graphics.Color
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import com.hzy.fillblanklibrary.AnswerRange
 import com.hzy.fillblanklibrary.FillBlankView
 
